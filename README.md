@@ -9,6 +9,7 @@
 ROBOT: Reddit Observation Bot On Twitch
 =====
 
+[WINNER: SD Hacks 2016](https://devpost.com/software/robot-smwjtl)
 This is a multifunctional Twitch bot that has meaningful and engaging interactions with its users.
 
 Its mission is to recognize a chat's sentiment, entertain users within the chat accordingly, and promote both collaborative and competitive activity within the chat.
